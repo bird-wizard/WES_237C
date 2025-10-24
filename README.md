@@ -1,4 +1,3 @@
 # WES_237C
 
-Cordic Pynq Demo for Project: Cordic
-https://youtu.be/SGWBfjh3nOY
+See individual project folders for submissions
