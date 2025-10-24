@@ -1,0 +1,18 @@
+---Testing results----------------------------------
+Test: x=0.8125, y=0.1250, golden theta=0.1545, golden r=0.8245, your theta=0.1875, your r=1.1250
+Test: x=0.6250, y=-0.2812, golden theta=-0.4149, golden r=0.6909, your theta=-0.4375, your r=0.6875
+Test: x=-0.5625, y=-0.9688, golden theta=-2.0898, golden r=1.1027, your theta=-2.0625, your r=1.4375
+Test: x=-0.5000, y=0.6875, golden theta=2.1769, golden r=0.8521, your theta=2.1875, your r=1.1250
+Test: x=1.0000, y=0.0000, golden theta=0.0000, golden r=1.0000, your theta=0.0000, your r=1.0000
+Test: x=0.0000, y=1.0000, golden theta=1.5708, golden r=1.0000, your theta=1.5000, your r=1.0312
+Test: x=-1.0000, y=0.0000, golden theta=3.1416, golden r=1.0000, your theta=3.1250, your r=1.0000
+Test: x=0.0000, y=-1.0000, golden theta=-1.5708, golden r=1.0000, your theta=-1.5000, your r=1.0312
+Test: x=1.0000, y=1.0000, golden theta=0.7854, golden r=1.4142, your theta=0.8750, your r=1.5000
+Test: x=-1.0000, y=1.0000, golden theta=2.3562, golden r=1.4142, your theta=2.4375, your r=1.5000
+Test: x=-1.0000, y=-1.0000, golden theta=-2.3562, golden r=1.4142, your theta=-2.2500, your r=1.5000
+Test: x=1.0000, y=-1.0000, golden theta=-0.7854, golden r=1.4142, your theta=-0.6875, your r=1.5000
+---RMS error----------------------------------
+----------------------------------------------
+   RMSE(R)           RMSE(Theta)
+0.160280793905258 0.063412591814995
+----------------------------------------------
