@@ -1,0 +1,12 @@
+Sample 0  result = [ -2 4 -8 14 -4 0 -42 48 -4 2 ]  (golden -2 4 -8 14 -4 0 -42 48 -4 2 )  => OK
+Sample 1  result = [ 2 0 48 10 -20 4 2 -16 4 -14 ]  (golden 2 0 48 10 -20 4 2 -16 4 -14 )  => OK
+Sample 2  result = [ -16 42 2 4 -2 -14 8 2 14 -8 ]  (golden -16 42 2 4 -2 -14 8 2 14 -8 )  => OK
+Sample 3  result = [ 50 -8 -8 -10 -12 16 -2 0 -8 -2 ]  (golden 50 -8 -8 -10 -12 16 -2 0 -8 -2 )  => OK
+Sample 4  result = [ -6 -16 -12 -10 40 -12 10 8 -12 22 ]  (golden -6 -16 -12 -10 40 -12 10 8 -12 22 )  => OK
+Sample 5  result = [ -24 30 -2 4 -2 -18 0 6 14 12 ]  (golden -24 30 -2 4 -2 -18 0 6 14 12 )  => OK
+Sample 6  result = [ -12 -10 -26 0 38 6 -4 -6 14 8 ]  (golden -12 -10 -26 0 38 6 -4 -6 14 8 )  => OK
+Sample 7  result = [ -20 -2 -18 4 10 2 -8 6 2 44 ]  (golden -20 -2 -18 4 10 2 -8 6 2 44 )  => OK
+Sample 8  result = [ -2 0 4 -22 4 16 26 -28 12 2 ]  (golden -2 0 4 -22 4 16 26 -28 12 2 )  => OK
+Sample 9  result = [ -6 -12 -20 6 12 -24 -10 28 -4 34 ]  (golden -6 -12 -20 6 12 -24 -10 28 -4 34 )  => OK
+
+Summary: 10/10 matched golden results.
